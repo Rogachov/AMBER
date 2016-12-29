@@ -1,0 +1,49 @@
+линк (цепь) -<i class="fa fa-link" aria-hidden="true"></i>
+сердце - <i class="fa fa-heart-o" aria-hidden="true"></i>
+поиск - <i class="fa fa-search-plus" aria-hidden="true"></i>
+
+класс для увеличения иконок - fa-lg (33% increase), fa-2x, fa-3x, fa-4x, or fa-5x
+
+круг(с фоном)- <i class="fa fa-circle" aria-hidden="true"></i>
+круг (тор)-<i class="fa fa-circle-o" aria-hidden="true"></i>
+
+Пример слияния иконок:
+fa-twitter on fa-square-o<br>
+<span class="fa-stack fa-lg">
+  <i class="fa fa-circle fa-stack-2x"></i>
+  <i class="fa fa-flag fa-stack-1x fa-inverse"></i>
+</span>
+
+кавычка правая (для цитат) - <i class="fa fa-quote-right" aria-hidden="true"></i>
+
+комментарий - <i class="fa fa-comments" aria-hidden="true"></i>
+
+звезда - <i class="fa fa-star" aria-hidden="true"></i>
+кубок - <i class="fa fa-trophy" aria-hidden="true"></i>
+выделение - <i class="fa fa-magic" aria-hidden="true"></i>
+облако (выгрузка) - <i class="fa fa-cloud-upload" aria-hidden="true"></i>
+
+шестерёнки - <i class="fa fa-cogs" aria-hidden="true"></i>
+телефон - <i class="fa fa-phone" aria-hidden="true"></i>
+ракета - <i class="fa fa-rocket" aria-hidden="true"></i>
+точка - <i class="fa fa-circle" aria-hidden="true"></i>
+
+флаг- <i class="fa fa-flag" aria-hidden="true"></i>
+письмо - <i class="fa fa-envelope-o" aria-hidden="true"></i>
+твитер (птичка) - <i class="fa fa-twitter" aria-hidden="true"></i>
+
+Социальные сети: 
+
+<i class="fa fa-facebook-square" aria-hidden="true"></i>
+<i class="fa fa-twitter-square" aria-hidden="true"></i>
+<i class="fa fa-youtube-square" aria-hidden="true"></i>
+<i class="fa fa-instagram" aria-hidden="true"></i> + <i class="fa fa-square" aria-hidden="true"></i>
+<i class="fa fa-pinterest-square" aria-hidden="true"></i>
+<i class="fa fa-pinterest-square" aria-hidden="true"></i>
+
+копирайт -<i class="fa fa-copyright" aria-hidden="true"></i>
+
+
+http://penek-s-glazami.blogspot.com/2013/07/svg.html
+http://www.cyberforum.ru/javascript/thread825523.html
+http://cssdeck.com/labs/xjqy6o82
